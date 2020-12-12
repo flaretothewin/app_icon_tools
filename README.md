@@ -1,6 +1,6 @@
 # App Icon Tools 🛠️
 
-## Table of content
+## Table of contents
 
 * [Description](#Description)
 * [Key Features](#Key-Features)
